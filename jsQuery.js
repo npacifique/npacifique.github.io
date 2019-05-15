@@ -2,7 +2,7 @@
 $("#button").click(function(){
   //alert("button clicked!");
   $.ajax({
-    url:"device"
+    url:"http://192.168.1.4/device"
   })
 
 
