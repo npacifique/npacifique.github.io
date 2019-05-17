@@ -1,6 +1,6 @@
 .grid{
     grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: 40px auto 40px;
+    grid-template-rows: auto;
     grid-template-areas: 
         "h h h h h h h h h h h h";
         
