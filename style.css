@@ -1,37 +1,5 @@
-html{
-  background-color: #525AF7;
-}
+
 .body{
-  background-image: url("https://images.pexels.com/photos/117602/pexels-photo-117602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-image: url("under-construction.jpeg");
   height:100vh;
-}
-
-
-h1{
-  font-family: 'Roboto', sans-serif;
-  font-size: 300%;
-}
-p{
-  font-size: 22px;
-  line-height: 1.5;
-}
-
-
-.grid{
-  display: grid;
-  grid-gap: 5px;
-  grid-template-columns: auto;
-  grid-template-rows: auto auto;
-
-}
-
-
-.head, .command{
-  border: 1px solid white;
-}
-
-
-#button {
-  width: 22%;
-
 }
