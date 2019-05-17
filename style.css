@@ -7,6 +7,7 @@
 }
 .cta{
     grid-area: h;
+    height:100vh;
 }
 
 img{
