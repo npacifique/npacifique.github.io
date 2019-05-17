@@ -1,9 +1,5 @@
 .grid{
-    grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: auto;
-    grid-template-areas: 
-        "h h h h h h h h h h h h";
-        
+           
 }
 .cta{
     grid-area: h;
