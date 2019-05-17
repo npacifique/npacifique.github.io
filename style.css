@@ -8,3 +8,7 @@
 .cta{
     grid-area: h;
 }
+
+img{
+    height:100vh;
+}
