@@ -1,5 +1,6 @@
 
 .body{
   background-image: url("under-construction.jpeg");
+  background-size: cover;
   height:100vh;
 }
